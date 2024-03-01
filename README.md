@@ -26,3 +26,6 @@ Eager to leverage hands-on experience in full-stack development to contribute ef
 #### Diary+ (Python Desktop Application)
 - Designed and implemented a user-friendly Python desktop application for efficient diary entry management using Tkinter.
 - Utilized dynamic arrays for organizing entries and implemented robust file handling functionalities.
+
+#### Castles Ecomerece Website
+![Castles Hompage](gifs/Castles_Homepage.gif)
